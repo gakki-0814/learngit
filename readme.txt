@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 first modified.
 second modified.
 Creating a new branch is quick and simple.
+modified in dev branch an commit.
